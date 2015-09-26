@@ -1,0 +1,8 @@
+name: mtcars
+account: hardeeparora
+server: shinyapps.io
+bundleId: 274392
+url: https://hardeeparora.shinyapps.io/mtcars
+when: 1443276608.55446
+asMultiple: FALSE
+asStatic: FALSE

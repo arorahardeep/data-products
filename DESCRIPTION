@@ -1,0 +1,7 @@
+Title: Regression Demo
+Author: Hardeep Arora
+AuthorUrl: https://hardeeparora.shinyapps.io/mtcars
+License: GPL-3
+DisplayMode: Showcase
+Tags: mtcars
+Type: Shiny
